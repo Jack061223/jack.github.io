@@ -1,5 +1,5 @@
 {
-  "name": "Shameless Chistes PWA",
+  "name": "Shameless - Chistes del Equipo",
   "short_name": "Shameless",
   "start_url": "index.html",
   "display": "standalone",
@@ -7,12 +7,12 @@
   "theme_color": "#6200ee",
   "icons": [
     {
-      "src": "assets/icon-512.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "assets/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
